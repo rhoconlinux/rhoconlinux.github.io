@@ -109,22 +109,22 @@
 							<div class="4u">
 								<article class="box box-style2">
 									<a href="http://flypixel.com/generic-smartphone/8949517882265310" class="image image-full"><img src="images/portfolio01.jpg" alt="" /></a>
-									<h3><a href="http://flypixel.com/generic-smartphone/8949517882265310">Magna feugiat</a></h3>
-									<p>Libreoffice Minimal User Interface</p>
+									<h3><a href="http://flypixel.com/generic-smartphone/8949517882265310">Libreoffice Minimal User Interface</a></h3>
+									<p>Libreoffice 4 Interface Settings + Icons</p>
 								</article>
 							</div>
 							<div class="4u">
 								<article class="box box-style2">
 									<a href="http://flypixel.com/n33" class="image image-full"><img src="images/portfolio02.jpg" alt="" /></a>
-									<h3><a href="http://flypixel.com/n33">Veroeros primis</a></h3>
-									<p>BluMix</p>
+									<h3><a href="http://flypixel.com/n33">BluMix - GtK 3.10 Theme</a></h3>
+									<p>BluMix is a Numix Mod</p>
 								</article>
 							</div>
 							<div class="4u">
 								<article class="box box-style2">
 									<a href="http://flypixel.com/wood-ui-kit/3574765984616310" class="image image-full"><img src="images/portfolio03.jpg" alt="" /></a>
-									<h3><a href="http://flypixel.com/wood-ui-kit/3574765984616310">Lorem ipsum</a></h3>
-									<p>Aery Icons for Gnome and Elementary OS</p>
+									<h3><a href="http://flypixel.com/wood-ui-kit/3574765984616310">Aery Icons </a></h3>
+									<p>Aery Icons are inspired and originally made for Elementary OS, now available for Gnome too!</p>
 								</article>
 							</div>
 						</div>
@@ -132,28 +132,28 @@
 							<div class="4u">
 								<article class="box box-style2">
 									<a href="http://flypixel.com/n33-pattern-set-1/3522389001865317" class="image image-full"><img src="images/portfolio04.jpg" alt="" /></a>
-									<h3><a href="http://flypixel.com/n33-pattern-set-1/3522389001865317">Tempus dolore</a></h3>
-									<p>Elementary Milk for Elementary OS</p>
+									<h3><a href="http://flypixel.com/n33-pattern-set-1/3522389001865317">Elementary Milk</a></h3>
+									<p>Designed specifically for Elementary OS, it only works with GtK 3.4 (Ubuntu 12.04)</p>
 								</article>
 							</div>
 							<div class="4u">
 								<article class="box box-style2">
 									<a href="http://flypixel.com/cityscape/9803996277226316" class="image image-full"><img src="images/portfolio05.jpg" alt="" /></a>
-									<h3><a href="http://flypixel.com/cityscape/9803996277226316">Feugiat aliquam</a></h3>
-									<p>Bunch of Tuturials</p>
+									<h3><a href="http://flypixel.com/cityscape/9803996277226316">Bunch of Tuturials</a></h3>
+									<p>If you don't follow spanish, the translate with google... or just ask me :)</p>
 								</article>
 							</div>
 							<div class="4u">
 								<article class="box box-style2">
 									<a href="http://flypixel.com/n33" class="image image-full"><img src="images/portfolio06.jpg" alt="" /></a>
-									<h3><a href="http://flypixel.com/n33">Sed amet ornare</a></h3>
-									<p>On Google Plus</p>
+									<h3><a href="http://flypixel.com/n33">On Google Plus</a></h3>
+									<p>There is an awesome and really active community working around Numix and Elementary. Join us!</p>
 								</article>
 							</div>
 						</div>
 					</div>
 					<footer>
-						<p>Lorem ipsum dolor sit sapien vestibulum ipsum primis?</p>
+						<p>Any doubts or questions? ...check the other sites or just mail me jej</p>
 						<a href="#contact" class="button button-big">Get in touch with me</a>
 					</footer>
 				</article>
@@ -163,8 +163,8 @@
 			<div class="wrapper wrapper-style4">
 				<article id="contact" class="container small">
 					<header>
-						<h2>Want to ask me something? Get in touch!</h2>
-						<span>Ornare nulla proin odio consequat sapien vestibulum ipsum sed lorem.</span>
+						<h2>Want to ask me something? Fill this or write me an email ^_^</h2>
+						<span>My electronic mail is rho (@) openmailbox . org</span>
 					</header>
 					<div>
 						<div class="row">
@@ -228,11 +228,12 @@
 						</div>
 					</div>
 					<footer>
-                        Site template designed by <a href="http://n33.co/">/*rho says: The Genious*/ AJ</a> released under <a href="http://html5up.net/license/">CCA license</a>.</p>
-						<ul id="copyright">
-							<li>&copy; 2013 Rhoconlinux</li>
+       							<li>&copy; 2013 Rhoconlinux</li>
 							<li>Images: <a href="http://fotogrph.com">fotogrph</a></li>
 							<li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
+                 Site template designed by /*rho says: The Genious*/ <a href="http://n33.co/"> AJ</a> released under <a href="http://html5up.net/license/">CCA license</a>.</p>
+						<ul id="copyright">
+
 						</ul>
 					</footer>
 				</article>
