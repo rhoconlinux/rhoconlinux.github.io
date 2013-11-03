@@ -98,7 +98,7 @@
 				<article id="portfolio">
 					<header>
 						<h2>Awesome work makes happy cutomizers.</h2>
-						<span>All but thanks to the developers that allow us to modify their creations! Cheers!.</span>
+						<span>All but thanks to all the developers that allow people to modify their creations! Here is my vision of what I like. Cheers!. </span>
 					</header>
 					<div class="container">
 						<div class="row">
@@ -108,8 +108,8 @@
 						<div class="row">
 							<div class="4u">
 								<article class="box box-style2">
-									<a href="http://flypixel.com/generic-smartphone/8949517882265310" class="image image-full"><img src="images/portfolio01.jpg" alt="" /></a>
-									<h3><a href="http://flypixel.com/generic-smartphone/8949517882265310">Libreoffice Minimal User Interface</a></h3>
+									<a href="http://artescritorio.com/libreoffice-4-1-en-elementary-os-mode" class="image image-full"><img src="images/portfolio01.jpg" alt="" /></a>
+									<h3><a href="http://artescritorio.com/libreoffice-4-1-en-elementary-os-mode">Libreoffice Minimal User Interface</a></h3>
 									<p>Libreoffice 4 Interface Settings + Icons</p>
 								</article>
 							</div>
