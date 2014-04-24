@@ -205,15 +205,16 @@ Well... yes... but <b>NO</b>. <p></p>
             <a href="http://wiki.go-docky.com/index.php?title=Installation" class="btn btn-1" target="_blank">How to Install Plank</a>
             <a href="https://www.google.it/search?q=c%C3%B3mo+instalar+la+%C3%BAltima+versi%C3%B3n+de+plank+ubuntu&oq=c%C3%B3mo+instalar+la+%C3%BAltima+versi%C3%B3n+de+plank+ubuntu&aqs=chrome..69i57j5l3j69i60l2.7033j0j1&sourceid=chrome&ie=UTF-8#q=c%C3%B3mo+instalar+la+%C3%BAltima+versi%C3%B3n+de+plank+ubuntu&tbas=0" class="btn btn-1" target="_blank">Cómo instalar Plank</a>
  <p> </p>
+                
+                    <font color:red> </font><b>Dependencies:</b></font> Plank Themer requires the xterm package. So if you are in Ubuntu or Elementary OS run the command <b>sudo apt-get install -y xterm</b> in a terminal. </p> 
                 </div></div>
          </p>   
     
-                     <h5>Standard Install:</h5>
+                     <h5>After installin Plank and the dependencies, do this: </h5>
 
                 <div class="row-2">
         <!--<div class="container">-->
                   
-                    <font color:red> </font><b>Dependencies:</b></font> Plank Themer requires the xterm package. So if you are in Ubuntu or Elementary OS run the command <b>sudo apt-get install -y xterm</b> in a terminal. </p> 
                     
                     <p><b>To proceed with the installation</b>, open a Terminal in your Linux system. Then, paste this code (it is only one line): </p><pre>cd ~ && mkdir -p ~/.temp-plank-themer && cd ~/.temp-plank-themer && wget https://github.com/rhoconlinux/plank-themer/archive/master.zip && unzip master.zip && cd plank-themer-master/ && rm -fR ~/.config/plank/dock1/theme_index; rm -fR ~/.config/plank/dock1/themes-repo; cp -a theme_index/ ~/.config/plank/dock1 && cp -a themes-repo/ ~/.config/plank/dock1 && cd ~ && rm -R ~/.temp-plank-themer && sh ~/.config/plank/dock1/theme_index/plank-on-dock-themer.sh 
 </pre> 
